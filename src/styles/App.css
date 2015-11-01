@@ -1,0 +1,32 @@
+/* Base Application Styles */
+body {
+  color: #000;
+  background: #fff;
+}
+
+.main-form {
+  margin: 20px;
+}
+.label-class {
+  color: red;
+}
+.data-label {
+  font-weight: bold;
+  font-size: 14;
+}
+.index {
+  margin: 40px auto;
+  border-radius: 4px;
+  background: #fff;
+  display: block;
+}
+
+.index .notice {
+  margin: 20px auto;
+  padding: 15px 0;
+  text-align: center;
+  border: 1px solid #000;
+  border-width: 0px 0;
+  color: black;
+  background: #fff;
+}
